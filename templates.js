@@ -94,7 +94,7 @@ function spotifyDefault(track) {
         }
         .widget {
           width: 200px;
-          aspect-ratio: 1/1;
+          height:200px;
           border-radius: 1rem;
           background-color: #1e1e1e;
           display: flex;
@@ -261,7 +261,7 @@ function spotifyColored(track) {
           }
           .widget {
             width: 200px;
-            aspect-ratio: 1/1;
+           height:200px;
             border-radius: 1rem;
             display: flex;
             flex-direction: column;
